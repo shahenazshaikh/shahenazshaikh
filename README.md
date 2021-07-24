@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahenazshaikh
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on LinkedIn
+- 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me sshaikh5010@gmail.com
 
 <!---
