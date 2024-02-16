@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shahenazshaikh
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning flutter
+- 👋 Hi, I’m @shahenazhannure
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently Data Analytics
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me sshaikh5010@gmail.com
 
